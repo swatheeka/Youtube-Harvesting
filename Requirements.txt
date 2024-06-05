@@ -1,0 +1,13 @@
+google-api-python-client
+pymongo
+mysql-connector-python
+pandas
+isodate
+streamlit
+
+# google-api-python-client: This package is necessary for interacting with the YouTube Data API.
+# pymongo: This library is used for connecting to and working with MongoDB databases.
+# mysql-connector-python: This package facilitates connecting to and interacting with MySQL databases.
+# pandas: This library provides powerful data structures (DataFrames) and data analysis tools for working with tabular data.
+# isodate: This library helps in handling ISO 8601 dates and times, which might be encountered when working with API responses.
+# streamlit: This framework is essential for building user interfaces (UIs) in Python web applications.
